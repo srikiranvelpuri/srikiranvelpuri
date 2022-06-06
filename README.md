@@ -2,6 +2,4 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on react/java projects
-- 📫 How to reach me @mails2srikiran@gmail.com
-
-
+- 📫 How to reach me @srikiranvelpuri@gmail.com
