@@ -1,27 +1,54 @@
+<h1 align="left">
+    Hello there! I'm Sri Kiran Velpuri
+<!-- <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> -->
+</h1>
 
 
+<h2 align="left">
+    Software Engineer @Copart | Frontend Developer & Creative Enthusiast
+</h2>
 
-
-<h1 align="center">Hi 👋, I'm Srikiran Velpuri</h1>
-<h3 align="center">Developer👨‍💻</h3>
-
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikiran1707&label=Profile%20views&color=0e75b6&style=flat" alt="srikiran1707" /> </p>
-
-- 👯 I’m looking to collaborate on **React projects**
-
-- 📫 How to reach me **srikiranvelpuri@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/srikiran-velpuri-913081172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srikiran velpuri" height="30" width="40" /></a>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=srikiran1707&label=Profile%20views&color=0e75b6&style=flat"
+    alt="srikiran1707" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p align="center" width="100%">
-    <img align="left" width="40%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikiran1707&show_icons=true&locale=en&layout=compact" alt="srikiran1707" />
-    <img align="right" width="45%" height="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=srikiran1707&" alt="srikiran1707" />
-</p>
+
+# 💫 About Me:
+With over 2 years of experience under my belt, I'm passionate about crafting user interfaces that strike the perfect balance between form and function.<br><br>
+Beyond coding, I'm an amateur photographer and a handy gamer 😜.
+ 
+## What I Bring to the Table
+I've got a solid grasp of Meta's design principles and I'm always eager to stay ahead of the curve with emerging UI trends.<br><br>
+My strength lies in connecting users with seamless experiences through well-thought-out frameworks and subtle UX optimisations.
+
+## 🔭 What I'm Up to Now
+Right now, I'm diving into the fascinating world of Large Language Models (LLM) and integrating them within React Native applications.
+
+## 👯 Let's Collaborate!
+I'm keen on teaming up on projects involving React-based mobile and web applications. If you've got something in mind, let's chat!
+
+## 💬  Get in Touch
+Got questions/suggestions about React or React Native development? Feel free to reach out.<br><br>Looking forward to potentially working together and creating something awesome! 🚀
+<br><br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikianvelpuri@gmail.com)
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srikiran-velpuri/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alwaysonlens)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@handygamer17) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+# 📊 GitHub Stats:
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikiran1707&theme=dark&hide_border=false" alt="GitHub Streak" style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikiran1707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1;">
+</div>
+
+
+
