@@ -9,8 +9,8 @@
 </h2>
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=srikiran1707&label=Profile%20views&color=0e75b6&style=flat"
-    alt="srikiran1707" /> 
+    <img src="https://komarev.com/ghpvc/?username=srikiranvelpuri&label=Profile%20views&color=0e75b6&style=flat"
+    alt="srikiranvelpuri" /> 
 </p>
 
 
@@ -46,8 +46,8 @@ Got questions/suggestions about React or React Native development? Feel free to 
 # 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikiran1707&theme=dark&hide_border=false" alt="GitHub Streak" style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikiran1707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikiranvelpuri&theme=dark&hide_border=false" alt="GitHub Streak" style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikiranvelpuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1;">
 </div>
 
 
