@@ -20,11 +20,11 @@ With over 2 years of experience under my belt, I'm passionate about crafting use
 Beyond coding, I'm an amateur photographer and a handy gamer 😜.
  
 ## What I Bring to the Table
-I've got a solid grasp of Meta's design principles and I'm always eager to stay ahead of the curve with emerging UI trends.<br><br>
+I've got a solid grasp of Material's design principles and I'm always eager to stay ahead of the curve with emerging UI trends.<br><br>
 My strength lies in connecting users with seamless experiences through well-thought-out frameworks and subtle UX optimisations.
 
 ## 🔭 What I'm Up to Now
-Right now, I'm diving into the fascinating world of Large Language Models (LLM) and integrating them within React Native applications.
+Right now, I'm diving into the fascinating world of Large Language Models (LLMs) and integrating them within React Native applications.
 
 ## 👯 Let's Collaborate!
 I'm keen on teaming up on projects involving React-based mobile and web applications. If you've got something in mind, let's chat!
