@@ -16,8 +16,8 @@
 
 
 # 💫 About Me
-With over 2 years of experience under my belt, I'm passionate about crafting user interfaces that strike the perfect balance between form and function.<br><br>
-Beyond coding, I'm an amateur photographer and a handy gamer 😜.
+With about three years in frontend development, I'm passionate about crafting user interfaces that strike the perfect balance between form and function.<br><br>
+Beyond coding, I'm an amateur photographer and a handy gamer.
  
 ## What I Bring to the Table
 I've got a solid grasp of Material's design principles and I'm always eager to stay ahead of the curve with emerging UI trends.<br><br>
