@@ -26,10 +26,10 @@ My strength lies in connecting users with seamless experiences through well-thou
 ## 🔭 What I'm Up to Now
 Right now, I'm diving into the fascinating world of Large Language Models (LLMs) and integrating them within React Native applications.
 
-## 👯 Let's Collaborate!
+## Let's Collaborate!
 I'm keen on teaming up on projects involving React-based mobile and web applications. If you've got something in mind, let's chat!
 
-## 💬  Get in Touch
+## Get in Touch
 Got questions/suggestions about React or React Native development? Feel free to reach out.<br><br>Looking forward to potentially working together and creating something awesome! 🚀
 <br><br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikianvelpuri@gmail.com)
@@ -108,9 +108,14 @@ Got questions/suggestions about React or React Native development? Feel free to 
 # 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikiranvelpuri&theme=dark&hide_border=false" alt="GitHub Streak" style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikiranvelpuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikiranvelpuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="Top Languages"
+    style="flex: 1;"
+      
+  >
 </div>
+
 
 
 
