@@ -8,10 +8,12 @@
     Software Engineer @Copart | Frontend Developer & Creative Enthusiast
 </h2>
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=srikiranvelpuri&label=Profile%20views&color=0e75b6&style=flat"
-    alt="srikiranvelpuri" /> 
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikianvelpuri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikiran-velpuri/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alwaysonlens)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@handygamer17)
+[![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/hg17islive)
+
 
 
 
@@ -29,17 +31,6 @@ Right now, I'm diving into the fascinating world of Large Language Models (LLMs)
 ## Let's Collaborate!
 I'm keen on teaming up on projects involving React-based mobile and web applications. If you've got something in mind, let's chat!
 
-## Get in Touch
-Got questions/suggestions about React or React Native development? Feel free to reach out.<br><br>Looking forward to potentially working together and creating something awesome! 🚀
-<br><br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikianvelpuri@gmail.com)
-
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikiran-velpuri/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alwaysonlens)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@handygamer17)
-[![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/hg17islive)
 
 # 💻 Tech and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -103,19 +94,6 @@ Got questions/suggestions about React or React Native development? Feel free to 
 ## Editting 
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) 
 ![Da Vinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white)
-
-
-# 📊 GitHub Stats
-
-<div style="display: flex; justify-content: space-around;">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikiranvelpuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-    alt="Top Languages"
-    style="flex: 1;"
-      
-  >
-</div>
-
 
 
 
