@@ -25,7 +25,7 @@ Beyond coding, I'm an amateur photographer and a handy gamer.
 I've got a solid grasp of Material's design principles and I'm always eager to stay ahead of the curve with emerging UI trends.<br><br>
 My strength lies in connecting users with seamless experiences through well-thought-out frameworks and subtle UX optimisations.
 
-## 🔭 What I'm Up to Now
+## What I'm Up to Now
 Right now, I'm diving into the fascinating world of Large Language Models (LLMs) and integrating them within React Native applications.
 
 ## Let's Collaborate!
