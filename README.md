@@ -5,7 +5,7 @@
 
 
 <h2 align="left">
-    Software Engineer @Copart | Frontend Developer & Creative Enthusiast
+    Software Engineer @Copart | Fullstack Developer & Creative Enthusiast
 </h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikianvelpuri@gmail.com)
@@ -18,7 +18,7 @@
 
 
 # 💫 About Me
-With about three years in frontend development, I'm passionate about crafting user interfaces that strike the perfect balance between form and function.<br><br>
+With more than three years in frontend development, I'm passionate about crafting user interfaces that strike the perfect balance between form and function.<br><br>
 Beyond coding, I'm an amateur photographer and a handy gamer.
  
 ## What I Bring to the Table
