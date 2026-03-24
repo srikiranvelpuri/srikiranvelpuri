@@ -1,11 +1,10 @@
 <h1 align="left">
     Hello there! I'm Sri Kiran Velpuri
-<!-- <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> -->
 </h1>
 
 
 <h2 align="left">
-    Software Engineer @Copart | Fullstack Developer & Creative Enthusiast
+    Software Engineer | Fullstack Developer & Creative Enthusiast
 </h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikianvelpuri@gmail.com)
@@ -17,7 +16,7 @@
 
 
 
-# 💫 About Me
+# About Me
 With more than three years in frontend development, I'm passionate about crafting user interfaces that strike the perfect balance between form and function.<br><br>
 Beyond coding, I'm an amateur photographer and a handy gamer.
  
@@ -32,7 +31,7 @@ Right now, I'm diving into the fascinating world of Large Language Models (LLMs)
 I'm keen on teaming up on projects involving React-based mobile and web applications. If you've got something in mind, let's chat!
 
 
-# 💻 Tech and Tools
+# Tech and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
